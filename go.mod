@@ -1,4 +1,4 @@
-module github.com/containerd/go-cni
+module github.com/Fvoiretryzig/go-cni
 
 require (
 	github.com/containernetworking/cni v0.7.1
